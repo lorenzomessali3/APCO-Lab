@@ -1,2 +1,2 @@
 # ASPO-Lab
-Laboratoy 
+Laboratory ASPO Projects 
